@@ -1,0 +1,17 @@
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\bin\Debug\net8.0-windows\WinFormsAppPacman.exe
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\bin\Debug\net8.0-windows\WinFormsAppPacman.deps.json
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\bin\Debug\net8.0-windows\WinFormsAppPacman.runtimeconfig.json
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\bin\Debug\net8.0-windows\WinFormsAppPacman.dll
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\bin\Debug\net8.0-windows\WinFormsAppPacman.pdb
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.Form1.resources
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.Properties.Resources.resources
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.csproj.GenerateResource.cache
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.AssemblyInfoInputs.cache
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.AssemblyInfo.cs
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.csproj.CoreCompileInputs.cache
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.dll
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\refint\WinFormsAppPacman.dll
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.pdb
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\WinFormsAppPacman.genruntimeconfig.cache
+C:\Users\Z-User\source\repos\WinFormsAppPacman\WinFormsAppPacman\obj\Debug\net8.0-windows\ref\WinFormsAppPacman.dll
